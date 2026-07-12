@@ -1,0 +1,16 @@
+# Virtual environment
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Airflow runtime files
+logs/
+airflow.db
+airflow.db-shm
+airflow.db-wal
+
+# Secrets
+simple_auth_manager_passwords.json*
+*.cfg
