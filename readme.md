@@ -5,9 +5,8 @@ Starts the scheduler.
 Starts the API/web server (in Airflow 3, this replaces the old webserver command).
 Starts supporting services needed for a local development environment.
 
-
-
-
-
-
 also run apache schedular
+
+## DAG Overview
+
+![DAG Screenshot](images/apache.png)
